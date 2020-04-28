@@ -30,10 +30,11 @@ O Programa Aceleradev Data Science da Codenation é um curso de 10 semanas, onde
 - Semana 9: Classificação
 
 ## Semana 1 - Quiz
-    A primeira semana de curso foi bem introdutória, foi nos apresentado conceitos iniciais da ciência de dados e quais são as skills do profissional dessa área.Assim, como foi estudado os tipos de soluções de aprendizado: Solução Descritiva, Solução Diagnóstica, solução Preditiva e Solução Prescritiva.
-    Os tipos de aprendizados (supervisionado e não-supervisionado) e problemas (Classificação Binária, Classificação multiclasse, Regressão, Clusterização, Sistemas de Recomendação) atacados pelo cientista de dados também foram discutidos. 
-    Ao final, foi respondido um quiz com 15 questões sobre data Science onde obtive 80% de acerto.
-<img align="center" height="100" width="400" src="./quiz.png"></img>
+A primeira semana de curso foi bem introdutória, foi apresentado conceitos iniciais da ciência de dados e quais são as skills do profissional dessa área.Assim, como foi estudado os tipos de soluções de aprendizado: Solução Descritiva, Solução Diagnóstica, solução Preditiva e Solução Prescritiva.
+Os tipos de aprendizados (supervisionado e não-supervisionado) e problemas (Classificação Binária, Classificação multiclasse, Regressão, Clusterização, Sistemas de Recomendação) atacados pelo cientista de dados também foram discutidos. 
+Ao final, foi respondido um quiz com 15 questões sobre data Science onde obtive 80% de acerto.
+
+<img align= "center" src="./quiz.png"></img>
 
 ## Semana 2 - Desafio0
 
