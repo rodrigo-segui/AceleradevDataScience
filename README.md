@@ -38,6 +38,7 @@ Ao final, foi respondido um quiz com 15 questões sobre data Science onde obtive
 
 ## Semana 2 - Desafio0
 
+Na segunda semana fomos para a "mão na massa", onde foi apresentado o famoso pandas(biblioteca de manipulação de dados). As aula foram bem práticas com instrutor mostrando as funçoes que pudemos ver na prática sua funçoes 
 Veja em [Desafio0/README.md](./Desafio0) para informações sobre o desafio0.
 
 ## Semana 3 - Desafio1
