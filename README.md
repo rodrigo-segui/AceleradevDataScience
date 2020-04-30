@@ -31,7 +31,9 @@ O Programa Aceleradev Data Science da Codenation é um curso de 10 semanas, onde
 
 ## Semana 1 - Quiz
 A primeira semana de curso foi bem introdutória, foi apresentado conceitos iniciais da ciência de dados e quais são as skills do profissional dessa área.Além disso, foi estudado os tipos de soluções de aprendizado: Solução Descritiva, Solução Diagnóstica, solução Preditiva e Solução Prescritiva.
+
 Os tipos de aprendizados (supervisionado e não-supervisionado) e problemas (Classificação Binária, Classificação multiclasse, Regressão, Clusterização, Sistemas de Recomendação) atacados pelo cientista de dados também foram discutidos. 
+
 Ao final, foi respondido um quiz com 15 questões sobre data Science onde obtive 80% de acerto.
 
 <img align= "center" width="600" src="./quiz.png"></img>
@@ -40,6 +42,7 @@ Ao final, foi respondido um quiz com 15 questões sobre data Science onde obtive
 
 Na segunda semana foi apresentado o famoso pandas(biblioteca de manipulação de dados) que em aulas práticas aprendi boa parte de seus metodos e funções incríveis.
 Nas últimas aulas foi exposto um conteúdo muito interessante sobre o framework streamlit(ferramenta de vizualização interativa com dados), onde criei uma aplicação para exploração de datasets.csv.
+
 Por fim, foi realizado um desafio onde obtive 100% de acerto.
 
 <img align= "center" width="600" src="./desafio0.png"></img>
@@ -51,6 +54,7 @@ Veja em [Desafio0/README.md](./Desafio0) para informações sobre o desafio0.
 <p>Cientista de dados precisa estudar estatatísca? Sim, Yes, Si, Ja, Hai.</p>
 <p>Na semana 3 iniciamos os estudados em EDA(análise exploratória de dados) apoiando-se em muita estatística, portanto foi assimilado conceitos como estatística descritiva univariada(média, moda, mediana, quartis, percentis, amplitude interquartil, desvio padrão, variância, assimetria, curtose) e estatistíca descritiva variada(correlação de spearman, correlação pearson).</p>
 Também, foi praticado técnicas de vizualizações de dados com bibliotecas como matplotlib e seaborn, onde foi estudado diferentes tipos de gráficos como: histograma, box-plot, scatter-plot e  matriz de correlação.
+
 Por fim, foi realizado um desafio onde obtive 100% de acerto.
  
 <img align= "center" width="600" src="./desafio1.png"></img>
