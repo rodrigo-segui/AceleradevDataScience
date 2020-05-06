@@ -44,7 +44,7 @@ Veja em [Desafio0/README.md](./Desafio0) para informações sobre o desafio0.
 
 ## Semana 3 - Desafio1
 
-Cientista de dados precisa estudar estatatísca? Sim, Yes, Si, Ja, Hai.<br/>Na semana 3 iniciamos os estudados em EDA(análise exploratória de dados) apoiando-se em muita estatística, portanto foi assimilado conceitos como estatística descritiva univariada(média, moda, mediana, quartis, percentis, amplitude interquartil, desvio padrão, variância, assimetria, curtose) e estatistíca descritiva variada(correlação de spearman, correlação pearson).<br/>Também, foi praticado técnicas de vizualizações de dados com bibliotecas como matplotlib e seaborn, onde foi estudado diferentes tipos de gráficos como: histograma, box-plot, scatter-plot e  matriz de correlação.<br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
+Cientista de dados precisa estudar estatatísca? Sim, Yes, Si, Ja, Hai.<br/>Na semana 3 iniciamos os estudados em EDA(análise exploratória de dados) apoiando-se em muita estatística, portanto foi assimilado conceitos como estatística descritiva univariada(média, moda, mediana, quartis, percentis, amplitude interquartil, desvio padrão, variância, assimetria, curtose) e estatistíca descritiva multivariada(correlação de spearman, correlação pearson).<br/>Também, foi praticado técnicas de vizualizações de dados com bibliotecas como matplotlib e seaborn, onde foi estudado diferentes tipos de gráficos como: histograma, box-plot, scatter-plot e  matriz de correlação.<br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
  
 <img align= "center" width="600" src="./desafio1.png"></img>
 
@@ -54,7 +54,7 @@ Veja em [Desafio1/README.md](./Desafio1) para informações sobre o desafio1.
 
 Na quarta semana estudamos conceitos como população, amostra, amostragem.Além disso, os tipos de amostragem divididos em aleatória, não aleatória e estratificada(proporcional e uniforme) e os problemas de amostragem(undercoverage bias, self-selection bias,health-users biais, survivor bias) foram conceitos discutidos.
 Aprendi sobre os tipos de distribuição de dados(distribuição normal, distribuição binomial) e funções de probabilidade(
-função densidade de probabilidade(pdf) e função distribuida acumulada(cdf), função distribuição acumulada empirica (ecdf))
+função densidade de probabilidade(pdf), função distribuida acumulada(cdf) e função distribuida acumulada empirica (ecdf))
 <br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
 <img align= "center" width="600" src="./desafio2.png"></img>
 
