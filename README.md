@@ -56,10 +56,28 @@ Na quarta semana estudamos conceitos como população, amostra, amostragem.Além
 Aprendi sobre os tipos de distribuição de dados(distribuição normal, distribuição binomial) e funções de probabilidade(
 função densidade de probabilidade(pdf), função distribuida acumulada(cdf) e função distribuida acumulada empirica (ecdf))
 <br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
+
 <img align= "center" width="600" src="./desafio2.png"></img>
 
 Veja em [Desafio2/README.md](./Desafio2) para informações sobre o desafio1.
 
+## Semana 5 - Desafio3
+
+Na quinta semana foi apresentado o teorema do limite central e o conceito de p-valor e como interpreta-lo, assim como focamos em vários testes estatísticos, detalhando e realizando exercicios sobre cada um. Alguns testes introduzidos na semana foram: student t-test, shapiro-wick e jarque bera.<br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
+
+<img align= "center" width="600" src="./desafio3.png"></img>
+
+Veja em [Desafio3/README.md](./Desafio3) para informações sobre o desafio3.
+
+
+## Semana 6 - Desafio4
+
+Na sexta semana foi estudado afundo o problema de dimensionalidade, aprendendo técnicas de como reduzir um dataset. O PCA(ANÁLISE DE COMPONENTES PRINCIPAIS) foi estudado e aplicado a exemplos práticos através de exercícios. Também foi desenvolvido o conhecimento em técnicas de seleção de variáveis como: seleção por completude, seleção por correlação, seleção por variância<br/>Por fim, foi realizado um desafio onde obtive 100% de acerto.
+
+
+<img align= "center" width="600" src="./desafio4.png"></img>
+
+Veja em [Desafio4/README.md](./Desafio4) para informações sobre o desafio4.
 
 
 
