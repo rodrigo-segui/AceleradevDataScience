@@ -90,25 +90,6 @@ Na sexta semana foi abordado temas da engenharia de features.Relacionado a varia
 Veja em [Desafio4/README.md](./Desafio5) para informações sobre o desafio5.
 
 
-## Semana 8 - Desafio6
-
-//////////////////////////////////////////////////////////
-
-
-<img align= "center" width="600" src="./desafio6.png"></img>
-
-Veja em [Desafio4/README.md](./Desafio6) para informações sobre o desafio6.
-
-
-## Semana 9 - Desafio7
-
-//////////////////////////////////////////////////////////
-
-
-<img align= "center" width="600" src="./desafio6.png"></img>
-
-Veja em [Desafio4/README.md](./Desafio7) para informações sobre o desafio6.
-
 ## Licença
 
 [MIT](./LICENSE) &copy; [Codenation](https://www.codenation.dev/)
